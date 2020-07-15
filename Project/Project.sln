@@ -5,6 +5,15 @@ VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project", "Project\Project.vcxproj", "{3122D45B-8EAA-4D09-A9E5-0D349EDF7C3E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8BDCE89D-8CB4-4093-8ABB-6FFC2E1066B1}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\TAM\main.cpp = ..\..\TAM\main.cpp
+		snake.cpp = snake.cpp
+		snake.h = snake.h
+		source.cpp = source.cpp
+		source.h = source.h
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
